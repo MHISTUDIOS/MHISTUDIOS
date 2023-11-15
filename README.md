@@ -1,7 +1,7 @@
 ### Hi there 👋 MY NAME IS MHI
 
 ## Im a starter WEB and GAME developer!
-im started programming and developing two years go. Its been a long way. First i start learning **html** and **css** with my friend? and after i start learning how to work with Unreal Engine.
+im started programming and developing two years go. Its been a long way. First i start learning **html** and **css** with my friend? and after i start learning Unreal Engine.
 
 
 ## 🔭 I’m currently working on:
@@ -14,6 +14,10 @@ im started programming and developing two years go. Its been a long way. First i
 - UI / UX design
 - C++
 - C#
+
+##📫 How to reach me:
+  at this moment you can contact with me via email
+  - email: mhistudios228@gmail.com
 
 
 ## MY STATS:
